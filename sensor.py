@@ -25,5 +25,3 @@ def distance(measure='cm'):
 
 
 print(distance('cm'))
-
-yes
